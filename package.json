@@ -1,0 +1,24 @@
+{
+  "name": "ci-with-github-actions",
+  "version": "1.0.0",
+  "description": "Getting Started with Create React App This project was bootstrapped with Create React App.",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mojorla-O/CI-with-Github-Actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mojorla-O/CI-with-Github-Actions/issues"
+  },
+  "homepage": "https://github.com/Mojorla-O/CI-with-Github-Actions#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
